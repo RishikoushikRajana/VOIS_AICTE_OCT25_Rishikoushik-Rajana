@@ -43,14 +43,14 @@ Data Source: Airbnb NYC Dataset (CSV)
 
 ### 📁 Airbnb-Analysis
  ├── data/
- │   └── airbnb_nyc.csv               # Raw dataset
+ │   └── airbnb_nyc.csv          
  ├── notebooks/
- │   └── airbnb_analysis.ipynb        # Jupyter Notebook (full project)
+ │   └── airbnb_analysis.ipynb        
  ├── outputs/
- │   ├── airbnb_cleaned.csv           # Cleaned dataset
- │   └── airbnb_revenue.csv           # Dataset with revenue estimates
- ├── README.md                        # Project documentation
- └── requirements.txt                 # Dependencies
+ │   ├── airbnb_cleaned.csv           
+ │   └── airbnb_revenue.csv           
+ ├── README.md                        
+ └── requirements.txt                
 
 ## 📊 Key Insights
 
