@@ -40,7 +40,8 @@ Environment: Jupyter Notebook
 Data Source: Airbnb NYC Dataset (CSV)
 
 ## 📂 Project Structure
-📁 Airbnb-Analysis
+
+### 📁 Airbnb-Analysis
  ├── data/
  │   └── airbnb_nyc.csv               # Raw dataset
  ├── notebooks/
